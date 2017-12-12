@@ -1,0 +1,9 @@
+import Foundation
+
+struct Settings {
+    static let slackAPIToken = ""
+    static let accountName = "" // @username
+    static let targetChannel = "" // #channel-name
+    static let keyword = ""
+    static let destinationChannelID = ""
+}
